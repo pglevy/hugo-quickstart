@@ -10,7 +10,7 @@ draft: false
 
 What is the why, how, and what of the UX Design practice?
 
-![Quote](/Purple.png)
+![Quote](Purple.png)
 
 *Why we do what we do*: We envision a world where everybody who uses the products and services we create or improve gets what they need and enjoys doing it.
 
