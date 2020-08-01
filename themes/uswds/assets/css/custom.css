@@ -1,0 +1,106 @@
+/* Links */
+main a:visited,
+.usa-skipnav:visited {
+  color: #00e;
+}
+
+/* Focus */
+details summary:focus {
+  outline-offset: 0px;
+  outline: rgb(36, 145, 255) solid 0.25rem;
+}
+
+/* Code */
+code, 
+pre {
+  font-size: .9rem;
+  background-color: rgba(0,0,0,.05);
+  font-weight: 400;
+}
+
+h1 code,
+h2 code,
+h3 code,
+h4 code,
+h5 code,
+h6 code {
+  font-size: .9em;
+}
+
+pre {
+  padding: 1rem;
+  border: 1px solid #757575;
+}
+
+pre code {
+  padding: 0;
+  background-color: transparent;
+  border: none;
+}
+
+code {
+  padding: 2px 0.25rem;
+  border-radius: 2px;
+  border: 1px solid #757575;
+}
+
+/* Blockquote */
+blockquote {
+  border-left: .25rem solid #757575;
+  padding-left: 1rem;
+  margin-left: 0;
+  max-width: 68ex !important;
+}
+
+/* Table of contents */
+.toc {
+  border: 1px solid #757575;
+  padding: 1rem; 
+  margin-top: 1rem;
+  color: #757575;
+}
+
+.toc a,
+.toc a:visited {
+  color: #757575;
+}
+
+/* Navbar */
+.usa-nav.is-visible {
+  border-left: 1px solid #dcdee0;
+}
+
+/* Tags */
+.post-tags a,
+.post-tags a:visited {
+  color: inherit;
+}
+
+/* Header links */
+.header-link {
+  text-decoration: none; 
+}
+
+/* Footer */
+#footer-main {
+  background-color: #fff;
+  border-top: 1px solid #dcdee0;
+}
+
+#footer-main * {
+  color: #757575;
+}
+
+/* Disqus comments */
+#disqus-container {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+#disqus-button {
+  width: 100%;
+}
+
+#disqus-comments {
+  display: none; 
+}

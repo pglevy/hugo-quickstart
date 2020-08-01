@@ -1,0 +1,81 @@
+baseURL: https://example.com
+languageCode: en-us
+defaultContentLanguage: en
+title: USWDS
+theme: uswds-hugo-theme
+enableRobotsTXT: true
+timeout: 45000
+googleAnalytics: UA-123456789-1
+enableGitInfo: true
+
+params:
+  google_ads: ca-pub-1234567812345678
+  footer: >
+    Made with [Hugo](https://gohugo.io/) &bull;
+    Themed by [USWDS](https://designsystem.digital.gov/) &bull;
+    Deployed to [Netlify](https://www.netlify.com/) &bull;
+    Content in [GitHub](https://github.com/zwbetz-gh/uswds-hugo-theme)
+  search: true
+
+outputs:
+  home: [HTML, RSS, JSON]
+
+pygmentsCodefences: true
+pygmentsStyle: pygments
+
+disqusShortname:
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  blog: /:filename/
+
+imaging:
+  quality: 90
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Blog
+      url: /blog/
+      weight: 2
+    - name: Tags
+      url: /tags/
+      weight: 3
+    - name: RSS
+      url: /index.xml
+      weight: 4
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: false
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
