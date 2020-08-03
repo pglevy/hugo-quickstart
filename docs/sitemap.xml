@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pglevy.github.io/hugo-quickstart/grants-contracts/</loc>
+    <lastmod>2019-03-26T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pglevy.github.io/hugo-quickstart/laws-regs/</loc>
+    <lastmod>2019-03-26T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pglevy.github.io/hugo-quickstart/posts/my-first-post/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
   </url>
@@ -14,6 +24,11 @@
   
   <url>
     <loc>https://pglevy.github.io/hugo-quickstart/posts/</loc>
+    <lastmod>2019-03-26T08:47:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pglevy.github.io/hugo-quickstart/programs-services/</loc>
     <lastmod>2019-03-26T08:47:11+01:00</lastmod>
   </url>
   

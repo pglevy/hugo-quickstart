@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>Grants &amp; Contracts</title>
+      <link>https://pglevy.github.io/hugo-quickstart/grants-contracts/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pglevy.github.io/hugo-quickstart/grants-contracts/</guid>
+      <description>Grants Home </description>
+    </item>
+    
+    <item>
+      <title>Laws &amp; Regulations</title>
+      <link>https://pglevy.github.io/hugo-quickstart/laws-regs/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pglevy.github.io/hugo-quickstart/laws-regs/</guid>
+      <description>Laws Home </description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://pglevy.github.io/hugo-quickstart/posts/my-first-post/</link>
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
@@ -20,6 +38,15 @@
       <description>Approach &amp;amp; Mindsetasdfadsf The golden circle What is the why, how, and what of the UX Design practice?
 Why we do what we do: We envision a world where everybody who uses the products and services we create or improve gets what they need and enjoys doing it.
 How we do it: We take a human-centered approach to design. That means we seek to deeply understand the people we’re designing for by talking to them and observing what they do and keeping them at the center of the creation process.</description>
+    </item>
+    
+    <item>
+      <title>Programs &amp; Services</title>
+      <link>https://pglevy.github.io/hugo-quickstart/programs-services/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pglevy.github.io/hugo-quickstart/programs-services/</guid>
+      <description>Programs Home </description>
     </item>
     
   </channel>
