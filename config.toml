@@ -1,5 +1,5 @@
 baseURL = "https://pglevy.github.io/hugo-quickstart/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "uswds"
+theme = "ananke"
 publishdir = "./docs/"
