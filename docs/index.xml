@@ -6,10 +6,20 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 08:47:11 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://pglevy.github.io/hugo-quickstart/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bixal wins SSA Design Challenge, Prototypes solution for the Seattle Public Library</title>
+      <link>https://pglevy.github.io/hugo-quickstart/posts/bixal-wins-ssa-design-challenge/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pglevy.github.io/hugo-quickstart/posts/bixal-wins-ssa-design-challenge/</guid>
+      <description>At the end of 2019, the Social Security Administration (SSA) invited Bixal and a few other small businesses to participate in a 48-hour design challenge with the goal of identifying a partner to evaluate and improve methods in which the public completes SSA&amp;rsquo;s self-service transactions online.
+Bixal&amp;rsquo;s performance led to us being selected to perform this important work for the SSA and we&amp;rsquo;re incredibly excited about the opportunity to work with them to positively impact the lives of the people that the SSA serves.</description>
+    </item>
     
     <item>
       <title>Grants &amp; Contracts</title>
