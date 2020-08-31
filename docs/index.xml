@@ -56,7 +56,19 @@ How we do it: We take a human-centered approach to design. That means we seek to
       <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
       <guid>https://pglevy.github.io/hugo-quickstart/programs-services/</guid>
-      <description>Programs Home </description>
+      <description>Programs Home This is the programs home.</description>
+    </item>
+    
+    <item>
+      <title>UX Design Team Resources</title>
+      <link>https://pglevy.github.io/hugo-quickstart/teams/ux-design/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://pglevy.github.io/hugo-quickstart/teams/ux-design/</guid>
+      <description>Toolkits &amp;amp; Playbooks  Bixal Methods Toolkit
+A collection of tools to bring human-centered design into your project. Bixal CX Toolkit
+Bixal’s CX Toolkit briefly outlines the objectives, methods and roles needed to bring a CX perspective to the solutions we deliver to federal agencies. These are provided at a “framework” level. U.S. Digital Services Playbook
+The Digital Services Playbook identifies a series of “plays” drawn from successful best practices from the private sector and government that, if followed together, will help government build effective digital services.</description>
     </item>
     
   </channel>
